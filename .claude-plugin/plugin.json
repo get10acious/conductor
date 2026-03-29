@@ -1,0 +1,19 @@
+{
+  "name": "conductor",
+  "version": "0.1.0",
+  "description": "Context-Driven Development framework for spec-driven, structured software development. Transforms Claude Code into a project manager that follows a strict lifecycle: Context > Spec & Plan > Implement.",
+  "author": {
+    "name": "Felipe Coury"
+  },
+  "repository": "https://github.com/get10acious/conductor",
+  "license": "Apache-2.0",
+  "keywords": [
+    "development",
+    "planning",
+    "tdd",
+    "spec-driven",
+    "project-management",
+    "workflow"
+  ],
+  "commands": "./commands"
+}
